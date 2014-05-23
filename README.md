@@ -1,5 +1,5 @@
 #ColorPrint
-==========================
+
 some simple functions to add color for python outpu
 
 ##Usage Example
