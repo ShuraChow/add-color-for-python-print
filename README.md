@@ -1,6 +1,6 @@
 #ColorPrint
 
-some simple functions to add color for python outpu
+some simple functions to add color for python output
 
 ##Usage Example
 
