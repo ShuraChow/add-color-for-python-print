@@ -4,7 +4,7 @@ some simple functions to add color for python output
 
 ##Usage Example
 
-    import ColorPrint
+    from ColorPrint import *
     
     aTuple = (1,2,3)
     aList = [1,2,3]
